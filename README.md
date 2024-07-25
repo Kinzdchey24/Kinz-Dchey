@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Kinzdchey24
+- 👋 Hi, I’m @Kinz-Dchey
 - 👀 I’m interested in traveling, reading
 - 🌱 I’m currently learning IT
 - 💞️ I’m looking to collaborate on Group projects with use of HTML, Java, PHP 
